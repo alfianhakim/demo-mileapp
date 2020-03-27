@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ Copyright 2019 PT Paket Informasi Digi_417197</name>
+   <tag></tag>
+   <elementGuidId>13e1ac71-445b-4b51-9ff5-766e712ba55c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='footer']/div/div[2]/div[2]/div/ul/a/li/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgB7ZTdDYJAEIT3jO9SAlagdkAJdqAdqBUYK9AO1Aq0BDsQKxArwA7OOVwMkFtCcpwPhC+Z8LMDk13uIAJa6y2U6i93aEm+4DAbEfmg0FmVK3lgUFMbkafAWKidyQcYXQg9K+M8kSdUITji00QplVBXUGakOIaW2q9TeAIcphbPG56YPRF7Jlx7QTfUb6UnzPcStsWy4JkLniPX91rmyU1l1G2LUidSgUPXJBNC5u+VTWhIbsyhoIHPeC7QuGmHdS9qitl+kWtgzg4aQzM+l1i4jtSwwUo8FK5jXtUri9e5w6QSliP9+APXwIdwP/YVmNpuomtxG7W1aBrTB/aB3QkMqSX+3uEHc9PpBJz02U4AAAAASUVORK5CYII=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon mr-3</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;footer-container margin-top-3 el-row&quot;]/div[@class=&quot;el-col el-col-24 el-col-md-8 el-col-lg-8 el-col-xl-8&quot;]/div[@class=&quot;social&quot;]/ul[@class=&quot;icon-link&quot;]/a[1]/li[1]/img[@class=&quot;icon mr-3&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='footer']/div/div[2]/div[2]/div/ul/a/li/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAELSURBVHgB7ZTdDYJAEIT3jO9SAlagdkAJdqAdqBUYK9AO1Aq0BDsQKxArwA7OOVwMkFtCcpwPhC+Z8LMDk13uIAJa6y2U6i93aEm+4DAbEfmg0FmVK3lgUFMbkafAWKidyQcYXQg9K+M8kSdUITji00QplVBXUGakOIaW2q9TeAIcphbPG56YPRF7Jlx7QTfUb6UnzPcStsWy4JkLniPX91rmyU1l1G2LUidSgUPXJBNC5u+VTWhIbsyhoIHPeC7QuGmHdS9qitl+kWtgzg4aQzM+l1i4jtSwwUo8FK5jXtUri9e5w6QSliP9+APXwIdwP/YVmNpuomtxG7W1aBrTB/aB3QkMqSX+3uEHc9PpBJz02U4AAAAASUVORK5CYII=')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/img</value>
+   </webElementXpaths>
+</WebElementEntity>
